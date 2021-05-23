@@ -40,7 +40,7 @@ if __name__ == '__main__':
     print('\t\t **Welcome to Library** \t\t\n')
 
     obj = library([
-        'python', 'Let us C', 'C++', 'compiler design', 'java', 'web designing'], 'Karthik Sivakoti')
+        'Python - Udemy', 'GitHub', 'Learning Selenium', 'Java', 'CCNA', 'AWS'], 'Karthik Sivakoti')
 
     while True:
 
