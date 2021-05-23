@@ -4,7 +4,7 @@
 About the project
 ------------
 This project demonstrates a basic Library Management System. <br/>
-![Library System](Library_System.png)
+![Library System](https://github.com/karthiksivakoti/Library-System/blob/main/Images/Library_System.jpg)
 
 It provides the user with the following capabilities:
 * To query for the books available
